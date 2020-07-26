@@ -1,0 +1,8 @@
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\bin\Debug\netcoreapp3.1\RuleEngineAPI.Common.deps.json
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\bin\Debug\netcoreapp3.1\RuleEngineAPI.Common.dll
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\bin\Debug\netcoreapp3.1\RuleEngineAPI.Common.pdb
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\obj\Debug\netcoreapp3.1\RuleEngineAPI.Common.csprojAssemblyReference.cache
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\obj\Debug\netcoreapp3.1\RuleEngineAPI.Common.AssemblyInfoInputs.cache
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\obj\Debug\netcoreapp3.1\RuleEngineAPI.Common.AssemblyInfo.cs
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\obj\Debug\netcoreapp3.1\RuleEngineAPI.Common.dll
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\obj\Debug\netcoreapp3.1\RuleEngineAPI.Common.pdb

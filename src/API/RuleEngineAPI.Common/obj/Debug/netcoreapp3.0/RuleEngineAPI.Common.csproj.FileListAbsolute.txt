@@ -1,0 +1,7 @@
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\bin\Debug\netcoreapp3.0\RuleEngineAPI.Common.deps.json
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\bin\Debug\netcoreapp3.0\RuleEngineAPI.Common.dll
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\bin\Debug\netcoreapp3.0\RuleEngineAPI.Common.pdb
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\obj\Debug\netcoreapp3.0\RuleEngineAPI.Common.AssemblyInfoInputs.cache
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\obj\Debug\netcoreapp3.0\RuleEngineAPI.Common.AssemblyInfo.cs
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\obj\Debug\netcoreapp3.0\RuleEngineAPI.Common.dll
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngineAPI.Common\obj\Debug\netcoreapp3.0\RuleEngineAPI.Common.pdb

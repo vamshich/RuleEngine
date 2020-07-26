@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "RuleEngineAPI.Services/1.0.0": {
+        "dependencies": {
+          "RuleEngineAPI.Common": "1.0.0"
+        },
+        "runtime": {
+          "RuleEngineAPI.Services.dll": {}
+        }
+      },
+      "RuleEngineAPI.Common/1.0.0": {
+        "runtime": {
+          "RuleEngineAPI.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RuleEngineAPI.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RuleEngineAPI.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

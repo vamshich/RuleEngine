@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RuleEngine.API.Business\RuleEngine.API.Business.csproj" />
+    <ProjectReference Include="..\RuleEngineAPI.Common\RuleEngineAPI.Common.csproj" />
+    <ProjectReference Include="..\RuleEngineAPI.Services\RuleEngineAPI.Services.csproj" />
+  </ItemGroup>
+
+</Project>

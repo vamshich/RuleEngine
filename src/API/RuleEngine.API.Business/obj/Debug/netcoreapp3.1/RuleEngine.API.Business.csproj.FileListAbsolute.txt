@@ -1,0 +1,11 @@
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\bin\Debug\netcoreapp3.1\RuleEngine.API.Business.deps.json
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\bin\Debug\netcoreapp3.1\RuleEngine.API.Business.dll
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\bin\Debug\netcoreapp3.1\RuleEngine.API.Business.pdb
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\bin\Debug\netcoreapp3.1\RuleEngineAPI.Common.dll
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\bin\Debug\netcoreapp3.1\RuleEngineAPI.Common.pdb
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\obj\Debug\netcoreapp3.1\RuleEngine.API.Business.csprojAssemblyReference.cache
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\obj\Debug\netcoreapp3.1\RuleEngine.API.Business.AssemblyInfoInputs.cache
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\obj\Debug\netcoreapp3.1\RuleEngine.API.Business.AssemblyInfo.cs
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\obj\Debug\netcoreapp3.1\RuleEngine.API.Business.csproj.CopyComplete
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\obj\Debug\netcoreapp3.1\RuleEngine.API.Business.dll
+D:\Assignment\RuleEngine\RuleEngine\src\API\RuleEngine.API.Business\obj\Debug\netcoreapp3.1\RuleEngine.API.Business.pdb
